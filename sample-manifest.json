@@ -1,12 +1,12 @@
 {
-  "export_job_id": "431081e3-673b-454f-a442-ec4e8ecb2d5f",
+  "export_job_id": "a525edbe-b3aa-4a7d-91a8-d1af6694ef84",
   "id_short": 101887,
-  "published_at": "2026-04-10T19:03:24Z",
+  "published_at": "2026-04-18T07:18:28Z",
   "repo_name": "white-space-finder-in-detroit-warren-dearborn-metro-michigan-us-sample-101887",
   "sample_asset_name": "beamstation_101887_food_and_drink-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/101887/beamstation_101887_food_and_drink-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
   "sample_records": 3,
-  "sample_sha256": "100a6245e34dd09f503726177f7b72f53ce55990f6a31d6650480d44987c75fd",
-  "sample_size_bytes": 26039,
+  "sample_sha256": "10e1078030fb8d7afba13fe08e6398b13eb4a350221a0a96e0cfa7875cde357e",
+  "sample_size_bytes": 27064,
   "total_records": 33
 }
